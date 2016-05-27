@@ -1,0 +1,1 @@
+Spring Boot template demonstrating Java 8 capabilities
